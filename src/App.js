@@ -8,10 +8,14 @@ function App() {
         <SearchBar />
         <br />
         <p>
-          Open-source
-          <a href="" alt="link to GitHub" target="_blank" rel="noreferrer">
-            code
-          </a>
+          <a
+            href="https://github.com/bryKruse/weather-react"
+            alt="link to GitHub"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open-Sourced code
+          </a>{" "}
           by Brynn Kruse
         </p>
       </header>

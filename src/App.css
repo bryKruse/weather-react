@@ -1,12 +1,3 @@
-.App {
-  text-align: center;
-}
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   min-height: 100vh;
   display: flex;
@@ -24,4 +15,8 @@
 .info {
   list-style: none;
   text-align: left;
+}
+.coding {
+  font-size: 15px;
+  text-align: center;
 }
